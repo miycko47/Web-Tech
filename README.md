@@ -1,2 +1,2 @@
 # Web-Tech
-CS stident at American College of Technology
+CS student at American College of Technology
